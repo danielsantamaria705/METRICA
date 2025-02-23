@@ -4,14 +4,6 @@ Cada nivel del juego está diseñado para combinar diversión y educación, perm
 El protagonista de esta aventura es Lia, una joven científica apasionada por la naturaleza, con cabello rizado castaño y una mochila llena de herramientas científicas.
 Lia es una exploradora ecológica que ha sido elegida para una misión única: restaurar el equilibrio de Ecosfera estudiando y resolviendo los problemas ambientales que afectan el mundo. Con su tablet de investigación, Lia deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de Ciencias Naturales.
 El jugador podrá explorar distintos ecosistemas, para avanzar deberá resolver acertijos basados en principios científicos y los desafíos incluirán clasificación de especies, simulaciones de ciclos biogeoquímicos y resolución de problemas ambientales.
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su 
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará 
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante 
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de 
-manera efectiva. 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para 
-[PLATAFORMAS]. Además, se implementarán características como 
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de 
-juego fluida y atractiva.
+Los estudiantes avanzarán mediante un sistema de misiones y recompensas. Cada nivel representa conceptos educativos como el ciclo del agua, la fotosíntesis o la cadena alimenticia, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los jugadores aprenderán sobre biodiversidad mediante observación y clasificación de especies. Se reforzará el concepto de sostenibilidad a través de simulaciones interactivas de ecosistemas y las evaluaciones se realizarán mediante desafíos tipo quiz y proyectos de conservación, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
+El juego se desarrollará usando Unity y tendrá soporte para PC, tabletas y dispositivos móviles. Además, se implementarán características como modo multijugador, realidad aumentada para observación de especies y un panel de control para profesores para garantizar una experiencia de juego fluida y atractiva.
